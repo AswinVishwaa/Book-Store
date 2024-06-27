@@ -15,7 +15,7 @@ The project has two main folders:
 - MongoDB
 - npm (Node Package Manager) or yarn
 
-API Endpoints
+##API Endpoints
 
 Books
 GET /books
@@ -29,13 +29,13 @@ PUT /books/
 DELETE /books/
   : Delete a book by its ID.
 
-Features
+##Features
 
   Add, view, update, and delete books.
   Responsive design for the frontend.
   Error handling and validation.
   
-Technologies Used
+##Technologies Used
 
   Frontend: React, HTML, CSS
   Backend: Node.js, Express
