@@ -18,25 +18,25 @@ The project has two main folders:
 ## API Endpoints
 
 Books
-GET /books
+- GET /books
   : Retrieve all books.
-POST /books
+- POST /books
   : Add a new book.
-GET /books/
+- GET /books/
   : Retrieve a book by its ID.
-PUT /books/
+- PUT /books/
   : Update a book by its ID.
-DELETE /books/
+- DELETE /books/
   : Delete a book by its ID.
 
 ## Features
 
-  Add, view, update, and delete books.
-  Responsive design for the frontend.
-  Error handling and validation.
+  - Add, view, update, and delete books.
+  - Responsive design for the frontend.
+  - Error handling and validation.
   
 ## Technologies Used
 
-  Frontend: React, HTML, CSS
-  Backend: Node.js, Express
-  Database: MongoDB
+  - Frontend: React, HTML, CSS
+  - Backend: Node.js, Express
+  - Database: MongoDB
