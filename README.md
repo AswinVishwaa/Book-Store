@@ -4,7 +4,7 @@ This project is a simple bookstore application built using the MERN stack (Mongo
 
 ## Project Structure
 
-The project has two main folders:
+The project has two main folders: 
 - `backend`: Contains the server-side code using Node.js, Express, and MongoDB.  
 - `frontend`: Contains the client-side code using React.
  
