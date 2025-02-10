@@ -8,7 +8,7 @@ The project has two main folders:
 - `backend`: Contains the server-side code using Node.js, Express, and MongoDB.  
 - `frontend`: Contains the client-side code using React.
  
-## Setup and Installation
+## Setup and Installation 
 
 ### Prerequisites
 - Node.js
